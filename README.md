@@ -1,2 +1,2 @@
-# typescript_study
-TypeScript 学習用
+# TypeScript Study
+TypeScriptの学習
